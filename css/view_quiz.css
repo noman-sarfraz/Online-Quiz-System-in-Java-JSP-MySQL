@@ -1,0 +1,51 @@
+
+    .content {
+        padding-left: 5%;
+    }
+
+    .functional-link {
+        display: inline-block; 
+        background-color: teal; 
+        color:white; 
+        text-align:center; 
+        text-decoration: none;
+        font-family:Comic Sans MS; 
+        width: 20%; 
+        padding: 1%;
+        margin-top: 5%;
+        border: 1px solid gray;
+    }
+
+    .functional-link-type-2 {
+        display: inline-block; 
+        background-color: white; 
+        color:teal; 
+        text-align:center; 
+        text-decoration: none;
+        font-family:Comic Sans MS; 
+        width: 20%; 
+        padding: 1%;
+    }
+
+    h1 {
+        color:teal;
+        font-family: Comic Sans MS;
+        display: block;
+        width: 40%;
+    }
+
+    .mcq-container {
+        display: block;
+        background-color: teal;
+        color: white;
+        font-size: 120%;
+        font-family: Comic Sans MS;
+        padding: 0.5%;
+        width: 50%;
+        margin-bottom: 1%;
+    }
+
+    .warning {
+        color: red;
+        margin-bottom: 2%;
+    }

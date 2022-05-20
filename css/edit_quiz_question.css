@@ -1,0 +1,53 @@
+
+
+    .content {
+        padding-left: 5%;
+    }
+
+    h1 {
+        color:teal;
+        font-family: Comic Sans MS;
+        display: block;
+        width: 50%;
+        text-align: center;
+    }
+
+    td {
+        color: white;
+        font-size: 20px;
+    }
+
+    textarea {
+        resize: none;
+        font-size: 20px;
+    }
+
+    input {
+        font-size: 20px;
+    }
+
+    select {
+        font-size: 18px;
+        font-family: Comic Sans MS;
+        color: teal;
+    }
+
+    .container {
+        display: block;
+        background-color: teal;
+        color: white;
+        font-size: 120%;
+        font-family: Comic Sans MS;
+        padding: 1%;
+        padding-left: 15%;
+        width: 40%;
+        margin-bottom: 1%;
+    }
+
+    .submit {
+        color: teal;
+        font-family: Comic Sans MS;
+        background-color: white;
+        border: 1px solid gray;
+    }
+

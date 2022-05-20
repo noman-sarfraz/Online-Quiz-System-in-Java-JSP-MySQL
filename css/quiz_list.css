@@ -1,0 +1,52 @@
+
+    h1 {
+        display: block;
+        width: 50%;
+        text-align: center;
+        font-family: Comic Sans MS;
+        color: teal; 
+    }
+    ul {
+        list-style: none;
+    }
+    li {
+        display: inline-block;
+        background-color: teal;
+        color: white;
+        font-size: 120%;
+        font-family: Comic Sans MS;
+        padding: 2%;
+        padding-left: 2%;
+        width: 50%;
+        margin-bottom: 1%;
+    }
+    a {
+        text-decoration: none;
+    }
+    
+    .functional-link {
+        display: block; 
+        background-color: teal; 
+        color:white; 
+        text-align:center; 
+        text-decoration: none;
+        font-family:Comic Sans MS; 
+        width: 20%; 
+        padding: 1%;
+        margin-top: 5%;
+    }
+
+    .functional-link-type-2 {
+        display: inline-block; 
+        background-color: white; 
+        color:teal; 
+        text-align:center; 
+        text-decoration: none;
+        font-family:Comic Sans MS;
+        font-size: 80%;
+        font-weight: bold;
+        width: 15%; 
+        padding: 0.5%;
+        float: right;
+    }
+
